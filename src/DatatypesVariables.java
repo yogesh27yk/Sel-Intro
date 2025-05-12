@@ -90,6 +90,8 @@ public class DatatypesVariables {
 	         String[] name = {"Rahul","Shetty","Academy"};
 	         List<String> asList = Arrays.asList(name);
 	         System.out.println(asList.contains("Rahul"));
+	         System.out.println("Work done by Dev");
+	         System.out.println("Dev");
 	         
 	         
 		
