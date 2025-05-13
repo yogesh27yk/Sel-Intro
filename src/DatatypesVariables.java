@@ -91,7 +91,7 @@ public class DatatypesVariables {
 	         List<String> asList = Arrays.asList(name);
 	         System.out.println(asList.contains("Rahul"));
 	         System.out.println("Work done by Dev");
-	         System.out.println("Dev");
+	         System.out.println("Dev work");
 	         
 	         
 		
